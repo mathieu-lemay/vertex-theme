@@ -1,5 +1,5 @@
-@define-color osd_toolbar_bg_a alpha(shade(#3D3E40, 1.15), 0.9);
-@define-color osd_toolbar_bg_b alpha(shade(#3D3E40, 0.85), 0.9);
+@define-color osd_toolbar_bg_a alpha(shade(#3e3e3e, 1.15), 0.9);
+@define-color osd_toolbar_bg_b alpha(shade(#3e3e3e, 0.85), 0.9);
 
 /*.menubar {
 	border-bottom: 1px solid @menubar_border;

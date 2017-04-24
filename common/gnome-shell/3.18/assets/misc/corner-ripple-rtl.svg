@@ -1,75 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="52"
-   height="52"
-   id="svg2"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="corner-ripple-rtl.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview955" />
-  <defs
-     id="defs4">
-    <linearGradient
-       id="linearGradient3857">
-      <stop
-         id="stop3859"
-         style="stop-color:#398dd3;stop-opacity:0"
-         offset="0" />
-      <stop
-         id="stop3861"
-         style="stop-color:#398cd3;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <radialGradient
-       cx="0"
-       cy="0"
-       r="52"
-       fx="0"
-       fy="0"
-       id="radialGradient3863"
-       xlink:href="#linearGradient3857"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     transform="translate(0,-1000.3622)"
-     id="layer1">
-    <path
-       d="M 52,0 A 52,52 0 1 1 -52,0 52,52 0 1 1 52,0 z"
-       transform="translate(52,1000.3622)"
-       id="path2991"
-       style="fill:url(#radialGradient3863);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-  </g>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="49px" height="49px" viewBox="0 0 49 49" enable-background="new 0 0 49 49" xml:space="preserve">  <image id="image0" width="49" height="49" x="0" y="0"
+    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADEAAAAxCAQAAADZlYmXAAAABGdBTUEAALGPC/xhBQAAAAJiS0dE
+AP+Hj8y/AAAACXBIWXMAAA3XAAAN1wFCKJt4AAAAB3RJTUUH4QQYDAkonIxR4AAAA+NJREFUWMOt
+l0urHUUUhb/a3ZoHZHRFBAcxU4UIgslYEZz4t/wVziUjBQdmEMQQghBRREWJDgyBxAd4ByGB3BO6
+qhzUa++qOuR4tQ79qO6+a+291t7Vfd2HMSIICwsLkjd7Jiys+WjvttliUMqVFYeslBEPPGN6dzyP
+RDwROVNvOvOYU2dO/alTIO26faacRQIbcmYSjZs8XILo402zQMizAt1+6wsqGoZY2ANpQ2jzBO8I
+VRmQC8PjUZ2NtAmkPR1MLmUreXg865EBb5AYcfT9BObyHadoFwKCRwAhZLT1SEUXq9o2bSuXFq08
+0Z5PZA6P4BLFS4O1tiR7qBI/HUHIgCHHL7XOTBZajuZKX3EtViGwZHDJDqW54HGZQs5xZKwsALEr
+w3Fu7S3P+GxzrHYLXBoqBiNW6IBt7Ue1hVpHMVMFAgIXu+j6mFFRF+g4hS1xp73POa1waYg/GtE0
+rVZ/UWYXbxySr5U6dAic5xUjRugE0cr7qv5MIk8wv42Qu4TXJxXTG9zgimC+kygQlUDGC3izttlo
+a+juhMkVTeaVH7Wi4AKvdeAht39QJPporS4ksWZU8qkUcHliblI9KoHKWa95ueoVdKPOFG9w3pRl
+i1ZnM+ajCYrBDdw3u2HlqpLE2t5DFqtjhdqyQKWzbZZSaukKZ7tenqveaieoTEMXvcezsWkv4EXe
+NoB6ndK0jbxlEofIt1kWcJWz00XQm4w8fbNFY3Mz2hRtGud4d2g9LYWfSORrHbWZpuoo4C1eNfXU
+jqNEmmYzUtmFMFgKxwe1E4KiiUoUnVc7bioU7ciQBbzMFbNoa8Vjlarv6iRTqSDdFYHASjfe4wG/
+U17y+p2dv4ryok1e3DGv0Vi/TlxVxsXhY/URH3GC1J/LH8iuztI+bWXvKrCGB2YU8CvXFEWCXPLm
+Kk3JZ/xVcOI+CviS2yrmdkyQi4peFLDULNJ7L1GsTMc77PhGVYPUtUuy8kJEcHmffj5TCOWr0u2n
+gPd5zF2CuqIFSG/oQm5FopbGXrvL2PiY+1mW3ui2R4mFcsK10PZTgOdT7nYWuzyXSuCMGzbb51JA
+5DrfqhLVeThFgyJEbfH5FAA3uVXjl6GOtEjk8mg5uMMo4Bc+Y2eil1qks7YzXXEYBTziEx4qa5tc
+KNsbUft39MAskvVfcEdFPM/g4AVk3/iLz3kwKVZtsu7sU1AAfM8NnhpxmkjNBZ3Hv6aAp3zNHXYT
+kWzbpQX/YLv78Yzv+Iong0h0bpxKqDY2fuYH7gG2q3Vn/0eKNB7zIz/x54Ti1HbPx46H3OM3/uiX
+wP+PoowTjvmbY455wjN2nLDxDxKSJsvDxxkuAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE3LTA0LTI0
+VDEyOjA5OjQwLTA0OjAwKvK1agAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNy0wNC0yNFQxMjowOTo0
+MC0wNDowMFuvDdYAAAAZdEVYdFNvZnR3YXJlAHd3dy5pbmtzY2FwZS5vcmeb7jwaAAAAAElFTkSu
+QmCC" />
 </svg>

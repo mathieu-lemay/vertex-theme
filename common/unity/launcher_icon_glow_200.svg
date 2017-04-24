@@ -1,7 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200.00001 200.00003">
- <defs>
-  <clipPath>
-   <path d="m 427.33333,22.026666 0,69.333333 69.33333,0 0,-69.333333 -69.33333,0 z m 13.11917,9.013333 43.095,0 c 2.27623,0 4.10583,1.829606 4.10583,4.105834 l 0,43.094999 c 0,2.276228 -1.8296,4.105834 -4.10583,4.105834 l -43.095,0 c -2.27623,0 -4.10583,-1.829606 -4.10583,-4.105834 l 0,-43.094999 c 0,-2.276228 1.8296,-4.105834 4.10583,-4.105834 z"/>
-  </clipPath>
- </defs>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="188px" height="188px" viewBox="0 0 188 188" enable-background="new 0 0 188 188" xml:space="preserve">  <image id="image0" width="188" height="188" x="0" y="0"
+    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALwAAAC8AQAAAADqMvkGAAAABGdBTUEAALGPC/xhBQAAAAJiS0dE
+AAHdihOkAAAACXBIWXMAAA3XAAAN1wFCKJt4AAAAB3RJTUUH4QQYDAsfFgeWbQAAAChJREFUWMPt
+yUERAAAIA6D1T2sDV8AzAXzJ3iZCCCGEEEIIIYQQQvxR05WEXNn7QxkAAAAldEVYdGRhdGU6Y3Jl
+YXRlADIwMTctMDQtMjRUMTI6MTE6MzEtMDQ6MDBUGSjzAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDE3
+LTA0LTI0VDEyOjExOjMxLTA0OjAwJUSQTwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9y
+Z5vuPBoAAAAASUVORK5CYII=" />
 </svg>

@@ -1,65 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="24"
-   width="24"
-   version="1.1"
-   id="svg1188"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="radiobutton.svg">
-  <metadata
-     id="metadata1203">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview1201" />
-  <defs
-     id="defs1190">
-    <filter
-       id="a"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="4.505684"
-         id="feGaussianBlur1193" />
-    </filter>
-  </defs>
-  <g
-     stroke-width="12"
-     id="g1195">
-    <path
-       d="m190.87 105.84c0 46.582-37.762 84.344-84.344 84.344s-84.344-37.762-84.344-84.344 37.762-84.344 84.344-84.344 84.344 37.762 84.344 84.344z"
-       transform="matrix(.11863 0 0 .11863 -.63748 -.55593)"
-       filter="url(#a)"
-       stroke="#000"
-       stroke-linejoin="round"
-       stroke-linecap="round"
-       fill="#fff"
-       id="path1197" />
-    <path
-       d="m16.438 12c0 2.4513-1.9872 4.4384-4.4384 4.4384-2.4513 0-4.4384-1.9872-4.4384-4.4384 0-2.4513 1.9872-4.4384 4.4384-4.4384 2.4513 0 4.4384 1.9872 4.4384 4.4384z"
-       id="path1199" />
-  </g>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="23px" height="23px" viewBox="0 0 23 23" enable-background="new 0 0 23 23" xml:space="preserve">  <image id="image0" width="23" height="23" x="0" y="0"
+    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAAAAADFQYt8AAAABGdBTUEAALGPC/xhBQAAAAJiS0dE
+AP+Hj8y/AAAACXBIWXMAAA3XAAAN1wFCKJt4AAAAB3RJTUUH4QQYDAsIldQTqgAAAatJREFUKM9d
+kjtv02AYhR9/chyXFFEkcCpUQcVtQcIVqFJpYEQQA125LKgSzLBViB3YKPwBYEViaWJWGJpeNgxj
+KFAVicQdUEIuztfkexncqIizvWd6n3OOJQBgdNI3ynYdld526rbiKIq7I57ve6MKwBJAby2VG/n8
+/j/12sHrcxPOrp98erlZuHbSUUZXw8rkg6ksINJbLQbvY21ExOg4LBbXtQgy+HozWOsYSWXaK8Ht
+bwNBGs9nwo7sqRNeWGyKMnHp0rQLLN+7fL8CuNOFpdjQfXv+gxaRJxZgPRMR/fHcu65KvninMrD8
+WAB5VIHMiXyUqH58JAu8SrnlNZAdj/vKdPZZwFaKzyagcm2jVK5lgKO7/jHAtHJK2YdrGpi3ALDm
+QXo1z1auX6/uQOFp+s8s7FS3fdd2/APhmUMWCxfffD9+dxakUR7zHaT5H2+7NPOiKchg41aw2v4n
+n6t3NgaCiF4LiuEwz3p4JVjXIpZA8nnxRyE47SjTq4Yrkw/97LCvn+XSb298tPVre2zuxkRm2COm
+HUdRvTuSnzrr5fb6BaSX7iGb8vEXfuj56X9VplwAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTctMDQt
+MjRUMTI6MTE6MDgtMDQ6MDBPDmrDAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDE3LTA0LTI0VDEyOjEx
+OjA4LTA0OjAwPlPSfwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAAASUVO
+RK5CYII=" />
 </svg>

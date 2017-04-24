@@ -2088,7 +2088,7 @@ GtkOverlay.osd {
     background-image: linear-gradient(to bottom,
                                       alpha(@progressbar_background_a, 0.9),
                                       alpha(@progressbar_background_b, 0.9));
-    box-shadow: inset 0 1px #66CBFF;
+    box-shadow: inset 0 1px #b9b9b9;
 }
 
 .osd .scale.trough:insensitive,

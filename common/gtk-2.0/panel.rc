@@ -2,20 +2,20 @@ style "theme-panel" {
 
   ythickness = 0
 
-  bg[NORMAL] = "#3C3E40"
-  bg[ACTIVE] = "#232324"
-  bg[PRELIGHT] = "#45474A"
+  bg[NORMAL] = "#3e3e3e"
+  bg[ACTIVE] = "#232323"
+  bg[PRELIGHT] = "#474747"
   bg[SELECTED] = @selected_bg_color
 
-  fg[NORMAL] = "#F3F3F5"
-  fg[PRELIGHT] = "#F3F3F5"
-  fg[ACTIVE] = "#F3F3F5"
-  fg[SELECTED] = "#F3F3F5"
+  fg[NORMAL] = "#f3f3f3"
+  fg[PRELIGHT] = "#f3f3f3"
+  fg[ACTIVE] = "#f3f3f3"
+  fg[SELECTED] = "#f3f3f3"
 
-  text[NORMAL] = "#F3F3F5"
-  text[PRELIGHT] = "#F3F3F5"
-  text[ACTIVE] = "#F3F3F5"
-  text[SELECTED] = "#F3F3F5"
+  text[NORMAL] = "#f3f3f3"
+  text[PRELIGHT] = "#f3f3f3"
+  text[ACTIVE] = "#f3f3f3"
+  text[SELECTED] = "#f3f3f3"
 
   engine "murrine" {
     lightborder_shade = 1.0
@@ -32,12 +32,12 @@ style "theme-panel" {
 
 style "panelbar" {
 
-  fg[NORMAL] = "#F3F3F5"
-  fg[ACTIVE] = "#F3F3F5"
-  fg[PRELIGHT] = "#F3F3F5"
-  fg[SELECTED] = "#F3F3F5"
+  fg[NORMAL] = "#f3f3f3"
+  fg[ACTIVE] = "#f3f3f3"
+  fg[PRELIGHT] = "#f3f3f3"
+  fg[SELECTED] = "#f3f3f3"
 
-  bg[SELECTED] = "#45474A"
+  bg[SELECTED] = "#474747"
 
   engine "murrine" {}
 }
@@ -55,13 +55,13 @@ style "panelbuttons" {
 
 style "theme-panel-text" {
 
-  fg[NORMAL] = "#F3F3F5"
+  fg[NORMAL] = "#f3f3f3"
   fg[PRELIGHT] = @selected_fg_color
-  fg[ACTIVE] = "#F3F3F5"
+  fg[ACTIVE] = "#f3f3f3"
 
-  text[NORMAL] = "#F3F3F5"
+  text[NORMAL] = "#f3f3f3"
   text[PRELIGHT] = @selected_fg_color
-  text[ACTIVE] = "#F3F3F5"
+  text[ACTIVE] = "#f3f3f3"
 
   engine "murrine" {
     textstyle = 1

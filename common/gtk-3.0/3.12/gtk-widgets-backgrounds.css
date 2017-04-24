@@ -170,12 +170,12 @@ GtkComboBox.combobox-entry .button:insensitive,
     background-image: linear-gradient(to bottom,
                                       @progressbar_background_a,
                                       @progressbar_background_b);
-    box-shadow: inset 0 1px #66CBFF;
+    box-shadow: inset 0 1px #b9b9b9;
 }
 
 .progressbar.vertical {
     background-image: linear-gradient(to right,
                                       @progressbar_background_a,
                                       @progressbar_background_b);
-    box-shadow: inset 1px 0 #66CBFF;
+    box-shadow: inset 1px 0 #b9b9b9;
 }

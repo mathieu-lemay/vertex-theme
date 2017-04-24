@@ -2,7 +2,7 @@ $pos_list: ((top, bottom),(bottom,top),(left,right),(right,left));
 
 $budgie_fg_color: nth($_fg_color, 2);
 
-$budgie_panel_bg_a: transparentize(#191a1d, 0.1);
+$budgie_panel_bg_a: transparentize(#1a1a1a, 0.1);
 $budgie_panel_bg_b: transparentize(#0e0e0e, 0.1);
 
 $raven_bg: transparentize(darken(nth($_wm_bg_b, 2), 5%), 0.1);

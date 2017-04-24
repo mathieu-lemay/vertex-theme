@@ -1,4 +1,4 @@
-gtk-color-scheme	= "base_color:#2B2B2C\nfg_color:#F3F3F5\ntooltip_fg_color:#FFFFFF\nselected_bg_color:#4080fb\nselected_fg_color:#FFFFFF\ntext_color:#F3F3F5\nbg_color:#353638\ninsensitive_bg_color:#434446\ntooltip_bg_color:#343434\nlink_color:#4080fb"
+gtk-color-scheme	= "base_color:#2b2b2b\nfg_color:#f3f3f3\ntooltip_fg_color:#FFFFFF\nselected_bg_color:#7b7b7b\nselected_fg_color:#FFFFFF\ntext_color:#f3f3f3\nbg_color:#363636\ninsensitive_bg_color:#444444\ntooltip_bg_color:#343434\nlink_color:#7b7b7b"
 
 gtk-icon-sizes		= "gtk-button=16,16" # This makes button icons smaller.
 gtk-auto-mnemonics = 1
@@ -687,7 +687,7 @@ style "scrollbar" {
 style "menubar" {
 
   bg[PRELIGHT] = "#FFF"	
-  bg[NORMAL] = "#454749"
+  bg[NORMAL] = "#474747"
   fg[NORMAL] = @selected_fg_color
   fg[SELECTED] = @text_color
   fg[INSENSITIVE] = shade(0.5, @selected_fg_color)
@@ -1048,7 +1048,7 @@ style "entry" {
   xthickness = 4
   ythickness = 4
 
-  base[NORMAL] = "#2B2B2C"
+  base[NORMAL] = "#2b2b2b"
   #base[NORMAL] = "#ffffff"  #Opera uses this color for the url entry#
   base[INSENSITIVE] = @insensitive_bg_color
 
@@ -2441,8 +2441,8 @@ style "xfwm-tabwin-button" {
 # Chromium
 style "chrome-gtk-frame" {
 
-  ChromeGtkFrame::frame-color = "#454749"
-  ChromeGtkFrame::inactive-frame-color = "#454749"
+  ChromeGtkFrame::frame-color = "#474747"
+  ChromeGtkFrame::inactive-frame-color = "#474747"
 
   ChromeGtkFrame::frame-gradient-size = 0
   ChromeGtkFrame::frame-gradient-color = shade(0.5, @bg_color)
@@ -2479,7 +2479,7 @@ style "null" {
 # Text Style
 style "text" {
 
-  base[NORMAL] = "#ff0000"
+  base[NORMAL] = "#363636"
 		
   engine "murrine" {
     text_shade = 0.7
@@ -2489,8 +2489,8 @@ style "text" {
 
 # Text Style Notebook
 style "notebook-text" {
-  #fg[INSENSITIVE] = "#2c2e2f"
-  #text[INSENSITIVE] = "#2c2e2f"
+  #fg[INSENSITIVE] = "#2e2e2e"
+  #text[INSENSITIVE] = "#2e2e2e"
 	
   engine "murrine" {
     text_shade 	= 0.6
